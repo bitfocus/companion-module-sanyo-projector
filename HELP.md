@@ -1,6 +1,6 @@
-# Sanyo WM5500 Projector Control
+# Sanyo Projector Control
 
-This module connects to a Sanyo WM5500 Projector via Telnet on tcp/10000. It has been tested with:
+This module connects to a Sanyo Projector via Telnet on tcp/10000. It has been tested with:
 * Sanyo WM5500
 
 It may work with other Sanyo projectors
@@ -19,9 +19,9 @@ It may work with other Sanyo projectors
 * "C01" - Power OFF
 * "C0D" - Video mute ON
 * "C0E" - Video mute OFF
-
 * "CR0" - Inquire Status (also used as heartbeat to keep telnet alive)
-Return Codes:
+
+## Return Codes:
 * 00 - Power On
 * 20 - Cooling Down
 * 40 - Countdown (power up warming up)

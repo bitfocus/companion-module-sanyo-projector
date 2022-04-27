@@ -1,5 +1,5 @@
 {
-	"name": "sanyo-wm5500",
+	"name": "sanyo-projector",
 	"version": "1.0.0",
 	"api_version": "1.0.0",
 	"keywords": [
@@ -8,7 +8,7 @@
 	"manufacturer": "Sanyo",
 	"product": "Projector",
 	"shortname": "sanyo",
-	"description": "Sanyo WM5500 Module for Companion",
+	"description": "Sanyo Projector Module for Companion",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
